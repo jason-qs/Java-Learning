@@ -3,7 +3,7 @@
 I do solemnly swear that I will support my learning initiative against all enemies, bugs and syntax errors; that I will fulfill the requirements of the course; that I take this obligation freely, without any mental reservation or purpose of evasion; and that I will well and faithfully commit early and often to this project on which I am about to enter.
 Goals
 I will learn Java by the end of Week 12 through completing a course and building a hackathon project from scratch
-I will utilize the following course to learn Java: Java
+I will utilize the following course to learn Java: https://app.pluralsight.com/paths/skills/java-language-fundamentals
 I will begin the course no later than Day 2 of Week 10
 I will stay well-hydrated and take regular bathroom breaks
 I commit to finish the course work by the end of Day 2 of Week 11
