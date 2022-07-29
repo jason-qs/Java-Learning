@@ -18,3 +18,6 @@ If I’m thirsty, then I will go drink some water
 If I see a cute puppy, then I may go pet it (but for no more than 5 minutes)
 Job Function Competencies/Knowledge, Skills and Behaviors
 
+
+
+-Finished a course, decided to work on a movie theater management web app
